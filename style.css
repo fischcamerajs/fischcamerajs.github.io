@@ -1,0 +1,21 @@
+main {
+    background: #92A8D1;
+}
+#header1 {
+    background: #34568B;
+}
+#nav1 {
+    background: #92A8D1;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
+article {
+    text-align: center;
+}
+body {
+    background: #92A8D1;
+}
+html {
+    font-family: "Raleway", "consolas", sans-serif;
+}
